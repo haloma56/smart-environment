@@ -1,6 +1,6 @@
 # 🌱 Smart Environment Monitoring System
 
-## 📌 Project Description
+## 📌 Project Description 
 
 Smart Environment Monitoring System is a Python-based application designed to monitor and analyze environmental data such as temperature, humidity, and air quality.
 
